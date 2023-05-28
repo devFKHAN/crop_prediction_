@@ -3,4 +3,4 @@ numpy
 pandas
 sklearn
 seaborn
-gunicorn
+gunicorn==20.1.0

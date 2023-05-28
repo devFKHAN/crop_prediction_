@@ -1,6 +1,6 @@
 flask
 numpy
 pandas
-scikit-learn
+sklearn
 seaborn
 gunicorn==20.1.0
